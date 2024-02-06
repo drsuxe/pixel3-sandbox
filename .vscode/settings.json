@@ -1,5 +1,6 @@
 {
   // Enable the ESlint flat config support
+  "vue.complete.casing.props": "camel",
   "eslint.experimental.useFlatConfig": true,
 
   // Disable the default formatter, use eslint instead
