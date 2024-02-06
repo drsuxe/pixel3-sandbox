@@ -40,6 +40,7 @@ import type {
 declare module 'vue-router/auto/routes' {
   export interface RouteNamedMap {
     '/': RouteRecordInfo<'/', '/', Record<never, never>, Record<never, never>>,
+    '/patterns/input/otp': RouteRecordInfo<'/patterns/input/otp', '/patterns/input/otp', Record<never, never>, Record<never, never>>,
     '/patterns/input/popover-prefix-suffix': RouteRecordInfo<'/patterns/input/popover-prefix-suffix', '/patterns/input/popover-prefix-suffix', Record<never, never>, Record<never, never>>,
     '/table': RouteRecordInfo<'/table', '/table', Record<never, never>, Record<never, never>>,
   }
