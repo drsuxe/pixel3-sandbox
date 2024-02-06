@@ -14,8 +14,6 @@ dist-ssr
 .vite-ssg-temp
 
 # Editor directories and files
-.vscode/*
-!.vscode/extensions.json
 .idea
 .DS_Store
 *.suo
@@ -26,3 +24,4 @@ dist-ssr
 
 # Others
 analyse.html
+.vercel
