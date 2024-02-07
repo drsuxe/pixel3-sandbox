@@ -11,6 +11,9 @@ dependencies:
   '@mekari/pixel3-utils':
     specifier: ^0.0.4
     version: 0.0.4(typescript@5.3.3)(vue@3.4.15)
+  '@vueuse/core':
+    specifier: ^10.7.2
+    version: 10.7.2(vue@3.4.15)
   vue:
     specifier: ^3.4.15
     version: 3.4.15(typescript@5.3.3)

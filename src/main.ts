@@ -9,6 +9,7 @@ import './pixel.css'
 const router = createRouter({
   history: createWebHistory(),
   extendRoutes: (routes) => {
+    console.log(routes)
     return routes
   },
 })
